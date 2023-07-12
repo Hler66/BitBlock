@@ -11,15 +11,15 @@ public class BAConfig {
     /**小球弹射方向*/
     public static const DIRECTION_Arr:Array = ["up", "top", "bottom", "left", "right"]
     /**挡板移动速度*/
-    public static const BAT_RATE:Number = 10;
-    /**键盘*/
+    public static const BAT_RATE:Number = 12;
+    /**键盘对应的数值*/
     public static const KEY:Object = {
         LEFT:37,
         RIGHT:39,
         TAB:32
     }
     /**每次得分增加分数*/
-    public static const SCORE = 2;
+    public static const SCORE = 1;
 
     public function BAConfig() {
 

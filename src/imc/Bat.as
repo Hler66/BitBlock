@@ -1,4 +1,4 @@
-package {
+package imc {
 import flash.display.Sprite;
 
 public class Bat  extends Sprite{
